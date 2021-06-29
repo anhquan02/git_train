@@ -1,1 +1,2 @@
-Hello this is the first time I use git CMD
+Hello this is the first time I use git CMD.
+I can clone this repo.
